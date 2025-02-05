@@ -1,4 +1,4 @@
-# Quantifying the impact of the COVID-19 pandemic on the Scottish accident and emergencylandscape.
+# Quantifying the impact of the COVID-19 pandemic on the Scottish accident and emergency landscape.
 
 This repository contains data and scripts related to the manuscript: Quantifying the impact of the COVID-19 pandemic on the Scottish accident and emergency landscape. You can find the following here:
 
